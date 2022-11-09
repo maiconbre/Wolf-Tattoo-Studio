@@ -35,5 +35,5 @@ $ <http://localhost:5173>
 - [Tamires Porto](https://github.com/Tamiresporto/)
 - [Grazi Firmino](https://github.com/GraziFirmino)
 - [Bernardo Rezende](https://github.com/bedibe)
+- [Kesia](https://github.com/kesia8)
 - [Maicon Brendon](https://github.com/maiconbre)
-- [Kezia](https://github.com/kesia8)
