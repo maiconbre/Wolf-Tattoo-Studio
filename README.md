@@ -32,8 +32,8 @@ $ <http://localhost:5173>
 ---
 
 ## Squad
-- [Ellen Maria](https://github.com/ellenmariadev/)
-- [Larissa Ferreira](https://github.com/Lari-Ferreira)
-- [Leonardo Iplinsky](https://github.com/IplinskyLeo)
-- [Matheus Hage](https://github.com/matheushage)
-- [Viniele Lopes](https://github.com/vinielelopes)
+- [Tamires Porto](https://github.com/Tamiresporto/)
+- [Grazi Firmino](https://github.com/GraziFirmino)
+- [Bernardo Rezende](https://github.com/bedibe)
+- [Maicon Brendon](https://github.com/maiconbre)
+- [Kezia](https://github.com)
