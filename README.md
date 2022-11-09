@@ -36,4 +36,4 @@ $ <http://localhost:5173>
 - [Grazi Firmino](https://github.com/GraziFirmino)
 - [Bernardo Rezende](https://github.com/bedibe)
 - [Maicon Brendon](https://github.com/maiconbre)
-- [Kezia](https://github.com)
+- [Kezia](https://github.com/kesia8)
