@@ -4,8 +4,6 @@
   background-color: #242424;
 
 }
-
-
 body {
   margin: 0;
   display: flex;
@@ -14,9 +12,5 @@ body {
   min-height: 100vh;
 }
 
-h1 {
-  margin: 0;
-  font-size: 3em;
-  line-height: 1;
-}
+
 
